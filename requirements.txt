@@ -1,2 +1,2 @@
 Flask
-opencv-contrib-python
+opencv-python
